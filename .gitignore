@@ -162,3 +162,6 @@ cython_debug/
 # models
 models/*
 !models/temp.txt
+
+# self data
+data/conversations_data.csv
